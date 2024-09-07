@@ -110,19 +110,16 @@ Ausschüsse und Kommissionen können im Rahmen des https://recht.nrw.de/lmi/owa/
 Zur Beratung und Unterstützung bei der Erfüllung des Gleichstellungsauftrags bildet der Senat eine Gleichstellungskommission. Der Gleichstellungskommission gehören je eine Frau und ein Mann aus jeder Gruppe nach https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643699[§ 11 Abs. 1 HG] an. Die zentrale Gleichstellungsbeauftragte der Universität ist kraft Amtes stimmberechtigtes Mitglied. Die oder der Vorsitzende wird von den stimmberechtigten Mitgliedern mit einfacher Mehrheit gewählt. Die Stellvertreterinnen der zentralen Gleichstellungsbeauftragten, die Fakultätsgleichstellungsbeauftragten und ihre Stellvertreterinnen gehören der Gleichstellungskommission mit beratender Stimme an. Die Gleichstellungskommission berichtet dem Senat.
 
 === § 12 Gleichstellungsbeauftragte
-(1) Zur Wahrnehmung der Aufgaben nach https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643717[§ 24 HG] und dem Landesgleichstellungsgesetz wird eine zentrale Gleichstellungsbeauftragte bestellt.
+(1) Zur Wahrnehmung der Aufgaben nach https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643717[§ 24] HG und dem https://recht.nrw.de/lmi/owa/br_text_anzeigen?v_id=220071121100436242[Landesgleichstellungsgesetz] wird eine zentrale Gleichstellungsbeauftragte bestellt.
 
-(2) Die zentrale Gleichstellungsbeauftragte hat jeweils bis zu zwei Stellvertreterinnen aus der Gruppe der Mitarbeiterinnen in Technik und Verwaltung sowie der Studentinnen. Darüber hinaus hat sie aus jeder Fakultät bis zu zwei ständige Vertreterinnen aus der Gruppe der Hochschullehrerinnen oder der akademischen Mitarbeiterinnen.
+(2) Die zentrale Gleichstellungsbeauftragte hat jeweils bis zu zwei Stellvertreterinnen aus der
+Gruppe der Mitarbeiterinnen in Technik und Verwaltung sowie der Studentinnen. Darüber hinaus hat sie aus jeder Fakultät bis zu zwei ständige Stellvertreterinnen aus der Gruppe der Hochschullehrerinnen oder der akademischen Mitarbeiterinnen (Fakultätsgleichstellungsbeauftragte).
 
-(3) Die Bestellung der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen, die Mitglieder der Universität sein müssen, erfolgt durch den Senat auf Vorschlag der Wahlfrauenversammlung. Sofern eine Fakultät die Gleichstellungsbeauftragte ihres Bereichs (Fakultätsgleichstellungsbeauftragte) und die Stellvertretung nicht aus dem Kreis der Stellvertreterinnen der zentralen Gleichstellungsbeauftragten bestellt, bedarf die Bestellung eines Vorschlags der Wahlfrauenversammlung.
+(3) Die Bestellung der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen aus der Gruppe der Mitarbeiterinnen in Technik und Verwaltung sowie der Studentinnen erfolgt durch den Senat auf Vorschlag der Gleichstellungskommission. Die Fakultätsgleichstellungsbeauftragten werden nach Stellungnahme durch die Gleichstellungskommission durch den Senat als Stellvertreterinnen der Gleichstellungsbeauftragten bestätigt. Erreicht eine Fakultätsgleichstellungsbeauftragte im zweiten Wahlgang im Senat nicht die einfache Mehrheit der anwesenden stimmberechtigten Mitglieder, so wird sie nicht Stellvertreterin der zentralen Gleichstellungsbeauftragten.
 
-(4) Die Wahlfrauenversammlung wird von den weiblichen Mitgliedern der Universität nach Gruppen getrennt gewählt. Ihr gehören je zwei Frauen aus den Gruppen nach https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643699[§ 11 Abs. 1 HG] an. Das Nähere regelt die Wahlordnung.
+(4) Für die Amtszeit der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen gilt <<_2_mitglieder_und_angehörige,§ 2 Abs. 7>> entsprechend. Die Amtszeit der Stellvertreterinnen endet jedoch spätestens mit der Amtszeit der zentralen Gleichstellungsbeauftragten. Wiederbestellung ist zulässig.
 
-(5) Einzige Aufgabe der Wahlfrauenversammlung ist es, dem Senat für die Bestellung der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen sowie der jeweiligen Fakultät für die Bestellung der Fakultätsgleichstellungsbeauftragten und ihrer Stellvertreterinnen jeweils eine oder mehrere Bewerberinnen vorzuschlagen.
-
-(6) Für die Amtszeit der zentralen Gleichstellungsbeauftragten und ihrer Stellvertreterinnen gilt <<_2_mitglieder_und_angehörige,§ 2 Abs. 6>> entsprechend. Die Amtszeit der Stellvertreterinnen endet jedoch spätestens mit der Amtszeit der zentralen Gleichstellungsbeauftragten. Wiederbestellung ist zulässig.
-
-(7) Die nähere Ausgestaltung des Amtes der Gleichstellungsbeauftragten sowie die Aufgaben, Rechte und Pflichten im Einzelnen sollen, soweit sie nicht gesetzlich geregelt sind, durch eine vom Senat zu beschließende Ordnung geregelt werden.
+(5) Die nähere Ausgestaltung des Amtes der Gleichstellungsbeauftragten sowie die Aufgaben, Rechte und Pflichten im Einzelnen sollen, soweit sie nicht gesetzlich geregelt sind, durch eine vom Senat zu beschließende Ordnung geregelt werden.
 
 === § 13 Vertretung der Belange studentischer Hilfskräfte
 (1) Die Vertretung der Belange studentischer Hilfskräfte obliegt dem Rat für studentische Hilfskräfte (SHK-Rat). Dem SHK-Rat gehören fünf Studierende an. Er wählt aus seiner Mitte eine Vorsitzende oder einen Vorsitzenden.
@@ -155,15 +152,11 @@ Zur Beratung und Unterstützung bei der Erfüllung des Gleichstellungsauftrags b
 (5) Die geschäftsführenden Leiterinnen und Leiter der wissenschaftlichen Einrichtungen der Fakultät bzw. die Leiterinnen und Leiter von Abteilungen des Universitätsklinikums sind zur Teilnahme an den Sitzungen des Fakultätsrates mit beratender Stimme berechtigt. Sie sollen daran teilnehmen, wenn die Belange der wissenschaftlichen Einrichtung oder Abteilung betroffen sind.
 
 === § 16 Wissenschaftliche Einrichtungen
-(1) Die Leitung einer wissenschaftlichen Einrichtung obliegt dem Vorstand.
+(1) Wissenschaftliche Einrichtungen können unter der Verantwortung einer Fakultät oder mehrerer Fakultäten errichtet werden. Zentrale Wissenschaftliche Einrichtungen werden durch das Rektorat errichtet. Ihre Aufgaben und Strukturen werden in einer Ordnung geregelt.
 
-(2) Stimmberechtigte Mitglieder des Vorstands einer wissenschaftlichen Einrichtung (Institut, Seminar) nach https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=28364&anw_nr=2&aufgehoben=N&det_id=643722[§ 29 HG] sind die an der wissenschaftlichen Einrichtung tätigen Mitglieder der Gruppe der Hochschullehrerinnen und Hochschullehrer, im Falle des Absatzes 3 nur deren gewählte Vertreterinnen und Vertreter, sowie die Vertreterinnen und Vertreter der anderen Gruppen nach Absatz 4.
+(2) Die Fakultäten können sich in Wissenschaftliche Einrichtungen gliedern.
 
-(3) Der Fakultätsrat kann mit der Mehrheit der Stimmen seiner Mitglieder den Beschluss fassen, die Anzahl der Mitglieder der Gruppe der Hochschullehrerinnen und Hochschullehrer im Vorstand zu begrenzen. Die Vertreterinnen und Vertreter dieser Gruppe werden gewählt.
-
-(4) Mitglieder aus den anderen Gruppen werden gewählt. Gehören dem Vorstand der wissenschaftlichen Einrichtung bis zu sieben Mitglieder der Gruppe der Hochschullehrerinnen und Hochschullehrer an, wird jeweils ein Mitglied, gehören ihm acht bis vierzehn Mitglieder an, werden jeweils zwei Mitglieder, anderenfalls jeweils drei Mitglieder dieser Gruppen gewählt; maßgebend ist die Zahl der Mitglieder der Gruppe der Hochschullehrerinnen und Hochschullehrer zum Zeitpunkt der Wahl. Gehören dem Vorstand zwei oder drei Mitglieder der Gruppe der Hochschullehrerinnen und Hochschullehrer an, so werden die Stimmen der Mitglieder dieser Gruppe doppelt gewichtet; gehört dem Vorstand ein Mitglied aus der Gruppe der Hochschullehrerinnen und Hochschullehrer an, wird dessen Stimme vierfach gewichtet.
-
-(5) Der Vorstand wählt aus seiner Mitte eine Professorin oder einen Professor für eine Amtszeit von zwei Jahren zur geschäftsführenden Leiterin oder zum geschäftsführenden Leiter; sie oder er vertritt die wissenschaftliche Einrichtung innerhalb der Fakultät und führt deren Geschäfte in eigener Zuständigkeit. Sie oder er ist den Mitgliedern des Vorstandes gegenüber auskunfts- und rechenschaftspflichtig.
+(3) Näheres zu den Aufgaben und den Mitgliedern einer wissenschaftlichen Einrichtung sowie zu der Zusammensetzung und der Wahl ihres Vorstands ist durch eine Ordnung zu regeln. Hinsichtlich der Zusammensetzung des Vorstands gilt <<_9_ausschüsse_und_kommissionen,§ 9 S. 4>> entsprechend.
 
 === § 17 Universitätsklinikum
 (1) Das Universitätsklinikum Düsseldorf dient der Medizinischen Fakultät der Universität zur Wahrnehmung ihrer Aufgaben in Forschung und Lehre. Die Universität und das Universitätsklinikum Düsseldorf erfüllen ihre Aufgaben in enger Zusammenarbeit.
